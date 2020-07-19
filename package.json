@@ -7,7 +7,7 @@
     "nodemon": "1.18.3",
     "node-telegram-bot-api": "0.40.0",
     "dotenv": "8.2.0",
-    "lodash": "4.17.15"
+    "lodash": "4.17.19"
   },
   "scripts": {
     "dev": "nodemon bot.js",
